@@ -30,4 +30,5 @@
 ◆連絡先  
 	Hortensia		https://twitter.com/hortensia_rtm  
 	Discord		@hortensia.mqo   
+	GitHub		https://github.com/Hortensia1706
 	
